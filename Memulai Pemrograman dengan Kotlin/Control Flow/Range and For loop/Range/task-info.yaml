@@ -1,0 +1,16 @@
+type: theory
+custom_name: Range
+files:
+- name: src/App.kt
+  visible: true
+  text: |-
+    // main function
+    fun main() {
+        val rangeInt = 1..10
+        print(rangeInt.step)
+    }
+  learner_created: false
+status: Solved
+feedback:
+  time: Fri, 31 Jul 2020 07:34:46 UTC
+record: -1
