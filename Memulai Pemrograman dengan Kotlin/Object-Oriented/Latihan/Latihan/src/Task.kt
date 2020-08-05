@@ -21,7 +21,7 @@ class Cat(private val name: String) {
     }
 
     fun toSleep() {
-        if (sleep== true) {
+        if (sleep) {
             println("$name, sleep!")
         }
         else{
