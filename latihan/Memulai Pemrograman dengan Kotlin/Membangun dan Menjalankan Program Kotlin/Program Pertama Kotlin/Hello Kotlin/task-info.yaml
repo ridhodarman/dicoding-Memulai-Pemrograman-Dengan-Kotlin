@@ -1,0 +1,15 @@
+type: theory
+custom_name: Hello Kotlin
+files:
+- name: src/App.kt
+  visible: true
+  text: |-
+    fun main() {
+        print("Hello Kotlin!")
+    }
+  learner_created: false
+status: Unchecked
+feedback:
+  message: Unable to execute task `Hello Kotlin`, main method is missing
+  time: Thu, 30 Jul 2020 02:43:53 UTC
+record: -1

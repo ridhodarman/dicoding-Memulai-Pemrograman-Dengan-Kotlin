@@ -1,0 +1,16 @@
+type: theory
+custom_name: Array Initialization
+files:
+- name: src/App.kt
+  visible: true
+  text: |-
+    // main function
+    fun main() {
+        val intArray = intArrayOf(1, 3, 5, 7)
+        print(intArray[2])
+    }
+  learner_created: false
+status: Solved
+feedback:
+  time: Thu, 30 Jul 2020 11:18:32 UTC
+record: -1
